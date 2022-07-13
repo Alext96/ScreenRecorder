@@ -1,0 +1,10 @@
+C:\Users\Swag\source\repos\ScreenRecorderrr\bin\Debug\ScreenRecorderrr.exe.config
+C:\Users\Swag\source\repos\ScreenRecorderrr\bin\Debug\ScreenRecorderrr.exe
+C:\Users\Swag\source\repos\ScreenRecorderrr\bin\Debug\ScreenRecorderrr.pdb
+C:\Users\Swag\source\repos\ScreenRecorderrr\bin\Debug\SharpAvi.dll
+C:\Users\Swag\source\repos\ScreenRecorderrr\bin\Debug\SharpAvi.xml
+C:\Users\Swag\source\repos\ScreenRecorderrr\obj\Debug\ScreenRecorderrr.csproj.AssemblyReference.cache
+C:\Users\Swag\source\repos\ScreenRecorderrr\obj\Debug\ScreenRecorderrr.csproj.CoreCompileInputs.cache
+C:\Users\Swag\source\repos\ScreenRecorderrr\obj\Debug\ScreenRecorderrr.csproj.CopyComplete
+C:\Users\Swag\source\repos\ScreenRecorderrr\obj\Debug\ScreenRecorderrr.exe
+C:\Users\Swag\source\repos\ScreenRecorderrr\obj\Debug\ScreenRecorderrr.pdb
